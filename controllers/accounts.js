@@ -17,14 +17,14 @@ const accounts = {
   
   //login function to render login page
   login(request, response) {
-    const viewData = {
-      title: 'Login to the Service',
+    const viewData={
+      title:'Login to the Service',
     };
-    response.render('login', viewData);
+    response.render('login',viewData);
   },
   
   //logout function to render logout page
-  logout(request, response) {
+  logout(request, response){
     response.cookie('playlist', '');
     response.redirect('/');
   },

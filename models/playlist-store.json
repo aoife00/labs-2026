@@ -1,4 +1,16 @@
 {
   "playlistCollection": [
+    {
+      "id": "5e714013-9d8a-4890-b2db-cba97f300619",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "title": "polo",
+      "rating": 3,
+      "songs": [],
+      "date": "2026-04-28T10:21:25.131Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/dqp1wb44j/image/upload/v1777371685/fbhtd80iidzozrzt3clk.jpg",
+        "public_id": "fbhtd80iidzozrzt3clk"
+      }
+    }
   ]
 }
