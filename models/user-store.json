@@ -13,6 +13,44 @@
       "email": "marge@simpson.com",
       "password": "secret",
       "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "holly",
+      "lastName": "may",
+      "email": "holly@may.com",
+      "password": "boat",
+      "picture": "images.jpeg",
+      "id": "7d735ea2-6641-478d-b317-cf4e20be720e"
+    },
+    {
+      "firstName": "Holly",
+      "lastName": "May",
+      "email": "holly.maye",
+      "password": "boat",
+      "picture": "images.jpeg",
+      "id": "a1d5f177-6607-449a-88cb-19049d027a11"
+    },
+    {
+      "firstName": "holly",
+      "lastName": "maye",
+      "email": "holly.may@gmial.com",
+      "password": "boat",
+      "id": "f8c2d412-a18d-46c6-904e-9cd8faefc7f5",
+      "picture": {
+        "url": "http://res.cloudinary.com/dqp1wb44j/image/upload/v1777376948/fe1ziuhp1wfqm5xio8jk.jpg",
+        "public_id": "fe1ziuhp1wfqm5xio8jk"
+      }
+    },
+    {
+      "firstName": "holly",
+      "lastName": "gray",
+      "email": "holly@gmail.com",
+      "password": "boat",
+      "id": "1db9b759-9880-420c-9cd5-84e706860ae0",
+      "picture": {
+        "url": "http://res.cloudinary.com/dqp1wb44j/image/upload/v1777377023/wmdudzxwdlbhuwrpkpba.jpg",
+        "public_id": "wmdudzxwdlbhuwrpkpba"
+      }
     }
   ]
 }
